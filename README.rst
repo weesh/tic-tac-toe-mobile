@@ -22,6 +22,8 @@ Submission Tips
 * Comments and Unit tests are appreciated but not required, if you know good practice, then show us
 * Research the AI - there are multiple well known algorithms available, show us your implementation!
 * Plagiarism will not be tolerated
+  * This applies only to other tictactoe projects
+  * Drawing from an algorithm or strategy is acceptable and encouraged
 
 Submissions
 ---------------
