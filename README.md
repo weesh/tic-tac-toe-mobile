@@ -24,6 +24,8 @@ Submission Tips
 * Plagiarism will not be tolerated
   * This applies only to other tictactoe projects
   * Drawing from an algorithm or strategy is acceptable and encouraged
+* There is no time limit
+  * Interview date is a good completion date, but updates are encouraged :)
 
 Submissions
 ---------------
