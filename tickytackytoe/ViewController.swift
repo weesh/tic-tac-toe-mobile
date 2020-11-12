@@ -127,7 +127,7 @@ class ViewController: UIViewController {
             if ((gameboard[btn7] == value && gameboard[btn8] == value && gameboard[btn9] == value) || //bottom
                 (gameboard[btn4] == value && gameboard[btn5] == value && gameboard[btn6] == value) || //middle
                 (gameboard[btn1] == value && gameboard[btn2] == value && gameboard[btn3] == value) || //top
-                (gameboard[btn1] == value && gameboard[btn4] == value && gameboard[btn6] == value) || //left side
+                (gameboard[btn1] == value && gameboard[btn4] == value && gameboard[btn7] == value) || //left side
                 (gameboard[btn2] == value && gameboard[btn5] == value && gameboard[btn8] == value) || //middle
                 (gameboard[btn3] == value && gameboard[btn6] == value && gameboard[btn9] == value) || //right side
                 (gameboard[btn1] == value && gameboard[btn5] == value && gameboard[btn9] == value) || //diagonal left to right
