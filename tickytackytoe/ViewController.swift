@@ -131,7 +131,7 @@ class ViewController: UIViewController {
                 (gameboard[btn2] == value && gameboard[btn5] == value && gameboard[btn8] == value) || //middle
                 (gameboard[btn3] == value && gameboard[btn6] == value && gameboard[btn9] == value) || //right side
                 (gameboard[btn1] == value && gameboard[btn5] == value && gameboard[btn9] == value) || //diagonal left to right
-                (gameboard[btn3] == value && gameboard[btn5] == value && gameboard[btn7] == value)){//diagonal right to left
+                (gameboard[btn3] == value && gameboard[btn5] == value && gameboard[btn7] == value)) { //diagonal right to left
                 messageLabel.isHidden = false
                 messageLabel.text = "Winner winner, chicken dinner! \(key) won!"
                 resetBtn.isHidden = false
